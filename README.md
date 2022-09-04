@@ -30,11 +30,11 @@ submitting R code from the titanic data set. Follow the instructions below.
 **Step 5**
 > Next, launch RStudio and create a new project called titanic.<br>
 > Since the folder has already been created, select **‘Existing Directory’** and point it to your local GitHub titanic folder.<br>
-> If done successfully, you should have a file called **labs-titanic-<your_username>.Rproj** created in the folder.<br>
-> **Commit and push** this change to GitHub.<br>
+> If done successfully, you should have a file called labs-titanic-<your_username>.Rproj created in the folder.<br>
+> Commit and push this change to GitHub.<br>
 > Note that there might be an additional .gitignore file created by RStudio automatically as well.<br>
 > <br>
-> *Hint:* The easiest way would be, while RStudio is not running, double click on the titanic.R file in your local GitHub folder.<br>
+> *Hint* : The easiest way would be, while RStudio is not running, double click on the titanic.R file in your local GitHub folder.<br>
 > The working directory then should be where the file is.
 
 **Step 6**
@@ -66,7 +66,7 @@ submitting R code from the titanic data set. Follow the instructions below.
 > This feature is called GitHub pages. On your GitHub titanic repo, go to<br>
 > **Settings →Pages (on the left side tab). Under the ‘Branch’ setting, select ’main’, and click Save.**<br>
 > It may take a while to set up, but eventually your website will be up and running at<br>
-> **https://sm2302.github.io/labs-titanic-<your_username>.** Go check it out!
+> https://sm2302.github.io/labs-titanic-<your_username>. Go check it out!
 
 **Step 9**
 > **SUBMISSON.** Once you are done with this exercise, go back to Canvas and submit the url of your GitHub website (or of the repo, if you were unable to create
